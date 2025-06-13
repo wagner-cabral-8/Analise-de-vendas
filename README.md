@@ -1,13 +1,7 @@
 ## 📸 Capturas de Tela
 
-*Inclua aqui imagens do seu dashboard Power BI para dar uma ideia visual do projeto.*
+![Dashboard de Vendas](./imagens/dashboard-vendas.png)
 
-## 🔗 Como Visualizar
-
-Se quiser visualizar o dashboard:
-
-1. Baixe o arquivo `.pbix` na pasta `/relatorios`
-2. Abra com o Power BI Desktop
 
 ## 👨‍💻 Autor
 
@@ -17,4 +11,4 @@ Wagner Cabral
 
 ---
 
-*Esse projeto faz parte do meu processo de transição de carreira da área de Vendas para a área de Dados.*
+
