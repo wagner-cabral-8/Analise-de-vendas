@@ -1,6 +1,6 @@
 ## 📸 Capturas de Tela
 
-![Dashboard de Vendas](./imagens/dashboard-vendas.png)
+![Dashboard de Vendas](imagens/dashboard-vendas.png)
 
 
 ## 👨‍💻 Autor
