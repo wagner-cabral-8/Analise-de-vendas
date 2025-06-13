@@ -1,6 +1,6 @@
 ## 📸 Dashboard 
 
-![Dashboard de Vendas](https://raw.githubusercontent.com/wagner-cabral-8/Analise-de-vendas/main/imagens/dashboard-vendas.png)
+‎imagens/Captura de tela 2025-06-13 133824.png
 
 
 ## 👨‍💻 Autor
