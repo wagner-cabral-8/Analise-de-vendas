@@ -16,7 +16,7 @@ Este projeto apresenta uma análise de dados de vendas utilizando o **Power BI**
 
 ## 📸 Captura de Tela
 
-![Dashboard de Vendas](imagens/dashboard_vendas.png)
+![Dashboard de Vendas](imagens/dashboard-vendas.png)
 
 ---
 
