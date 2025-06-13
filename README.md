@@ -1,6 +1,6 @@
 ## 📸 Dashboard 
 
-![Dashboard de Vendas](imagens/Capturadetela2025-06-13133824.png) 
+![Dashboard de Vendas](imagens/Capturadetela2025-06-13133824.png)
 
 
 ## 👨‍💻 Autor
