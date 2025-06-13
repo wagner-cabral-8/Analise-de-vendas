@@ -1,4 +1,4 @@
-## 📸 Capturas de Tela
+## 📸 Dashboard 
 
 ![Dashboard de Vendas](imagens/dashboard-vendas.png)
 
