@@ -1,6 +1,6 @@
 ## 📸 Dashboard 
 
-![Dashboard de Vendas](imagens/C:\Users\Wagner-Cabral\OneDrive\Documentos\OneDrive\Área-de-Trabalho\Portólio-Análise-de-Vendas\imagens.png)
+![Dashboard de Vendas](imagens/Capturadetela2025-06-13133824.png)
 
 
 ## 👨‍💻 Autor
